@@ -1,0 +1,13 @@
+{:uriI"¡file://app/assets/javascripts/bootstrap-4.1.3/build/workbox.config.json?type=application/json&id=3ca1dff3769fc77467b08eb8ff34750dc2b02dd53d139e21c2ddea677a00c2f9:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/bootstrap-4.1.3/build/workbox.config.json;T:	nameI")bootstrap-4.1.3/build/workbox.config;T:logical_pathI".bootstrap-4.1.3/build/workbox.config.json;T:content_typeI"application/json;T:sourceI"¡{
+  "globDirectory": "./",
+  "globPatterns": [
+    "_gh_pages/**/*.{html,css,js,json,png,svg}"
+  ],
+  "swSrc": "./site/sw.js",
+  "swDest": "./_gh_pages/sw.js"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/bootstrap-4.1.3/build/workbox.config.json;TTF:charsetI"
+utf-8;F:digest"%ª€*]ôÎ0Z3›/‰ôtÚZÚ–‡ïfÄë'Md‰:lengthi¡:dependencies_digest"%°H›Ç<OÇ1oKp­lfk¨xÀù@MÆ…ì!DK·Ç:idI"E3ca1dff3769fc77467b08eb8ff34750dc2b02dd53d139e21c2ddea677a00c2f9;F:
+mtimel+™Ní[

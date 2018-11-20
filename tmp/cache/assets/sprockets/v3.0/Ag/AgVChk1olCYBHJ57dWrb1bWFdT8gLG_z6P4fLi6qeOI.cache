@@ -1,0 +1,27 @@
+{:uriI"¢file://app/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/index.html?type=text/html&id=35e5fa6066eaf0a0523831cc075e4b3ad111c97a32cc7db6e46d23b334ef1be4:ET:load_pathI"app/assets/javascripts;T:filenameI"Mapp/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/index.html;T:	nameI"1bootstrap-4.1.3/site/docs/4.1/examples/index;T:logical_pathI"6bootstrap-4.1.3/site/docs/4.1/examples/index.html;T:content_typeI"text/html;T:sourceI"é---
+layout: examples
+title: Examples
+description: Quickly get a project started with any of our examples ranging from using parts of the framework to custom components and layouts.
+redirect_from: "/examples/"
+---
+
+{% for entry in site.data.examples %}
+  <h2>{{ entry.category | capitalize }}</h2>
+  <p>{{ entry.description }}</p>
+  {% for example in entry.examples %}
+    {% if forloop.first %}<div class="row">{% endif %}
+      <div class="col-sm-6 col-md-4 col-xl-3 mb-3">
+        <a href="{{ site.baseurl }}/docs/{{ site.docs_version }}/examples/{{ example.name | slugify }}/">
+          <img class="img-thumbnail mb-3" src="{{ site.baseurl }}/docs/{{ site.docs_version }}/examples/screenshots/{{ example.name | slugify }}.png" alt="{{ example.name }} screenshot" width="960" height="600">
+          <h5 class="mb-1">{{ example.name }}</h5>
+        </a>
+        <p class="text-muted">{{ example.description }}</p>
+      </div>
+    {% if forloop.last %}</div>{% endif %}
+  {% endfor %}
+{% endfor %}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"[file-digest://app/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/index.html;TTF:charsetI"
+utf-8;F:digest"%T&yGI”Á”æfí£G±ŒØÜuô¸!®Žvvlä:lengthié:dependencies_digest"%—B°€§!Ý’v?½‹bÎ<Id²±;lR¥œ˜ˆk™•g:idI"E35e5fa6066eaf0a0523831cc075e4b3ad111c97a32cc7db6e46d23b334ef1be4;F:
+mtimel+šNí[

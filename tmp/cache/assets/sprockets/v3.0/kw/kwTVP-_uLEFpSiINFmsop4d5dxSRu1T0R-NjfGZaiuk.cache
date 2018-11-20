@@ -1,0 +1,17 @@
+{:uriI"›file://app/assets/javascripts/bootstrap-4.1.3/site/_includes/footer.html?type=text/html&id=231779712212b3dfed0b325e18c922855b3407a3b53f59ba865a76495ccd00d3:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/bootstrap-4.1.3/site/_includes/footer.html;T:	nameI"*bootstrap-4.1.3/site/_includes/footer;T:logical_pathI"/bootstrap-4.1.3/site/_includes/footer.html;T:content_typeI"text/html;T:sourceI"|<footer class="bd-footer text-muted">
+  <div class="container-fluid p-3 p-md-5">
+    <ul class="bd-footer-links">
+      <li><a href="{{ site.repo }}">GitHub</a></li>
+      <li><a href="https://twitter.com/getbootstrap">Twitter</a></li>
+      <li><a href="{{ site.baseurl }}/docs/{{ site.docs_version }}/examples/">Examples</a></li>
+      <li><a href="{{ site.baseurl }}/docs/{{ site.docs_version }}/about/overview/">About</a></li>
+    </ul>
+    <p>Designed and built with all the love in the world by <a href="https://twitter.com/mdo" target="_blank" rel="noopener">@mdo</a> and <a href="https://twitter.com/fat" target="_blank" rel="noopener">@fat</a>. Maintained by the <a href="https://github.com/orgs/twbs/people">core team</a> with the help of <a href="https://github.com/twbs/bootstrap/graphs/contributors">our contributors</a>.</p>
+    <p>Currently v{{ site.current_version }}. Code licensed <a href="https://github.com/twbs/bootstrap/blob/master/LICENSE" target="_blank" rel="license noopener">MIT</a>, docs <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="license noopener">CC BY 3.0</a>.</p>
+  </div>
+</footer>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Tfile-digest://app/assets/javascripts/bootstrap-4.1.3/site/_includes/footer.html;TTF:charsetI"
+utf-8;F:digest"%ŒÌðŒÈâpÇ½ó,@ ç©žvç+6Vˆ|<ø.Ý{õï:lengthi|:dependencies_digest"%áÉÄÇ^'­•¯ô=JœL¬ÖåmYòêŽûy]#°Uk:idI"E231779712212b3dfed0b325e18c922855b3407a3b53f59ba865a76495ccd00d3;F:
+mtimel+šNí[

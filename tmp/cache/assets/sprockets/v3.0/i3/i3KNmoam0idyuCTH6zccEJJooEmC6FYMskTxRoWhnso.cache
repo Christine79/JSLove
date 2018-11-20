@@ -1,0 +1,27 @@
+{:uriI"›file://app/assets/javascripts/bootstrap-4.1.3/site/_layouts/default.html?type=text/html&id=451736a91e42e49a55a6101f728bb5f9d5717e60beb7c4132055cb635f37c164:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/bootstrap-4.1.3/site/_layouts/default.html;T:	nameI"*bootstrap-4.1.3/site/_layouts/default;T:logical_pathI"/bootstrap-4.1.3/site/_layouts/default.html;T:content_typeI"text/html;T:sourceI"­<!doctype html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body>
+    {% include skippy.html %}
+
+    {% include docs-navbar.html %}
+
+    {% if page.layout == "simple" or page.layout == "examples" %}
+      {{ content }}
+    {% else %}
+      <main id="content" role="main">
+        {{ content }}
+      </main>
+    {% endif %}
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Tfile-digest://app/assets/javascripts/bootstrap-4.1.3/site/_layouts/default.html;TTF:charsetI"
+utf-8;F:digest"%@q’ŒÒ#­R5ò.ÀÈ¿°%â#%ÂLÌU]CLO’:lengthi­:dependencies_digest"%aámÎ?©®µ áØˆRwv!Ş‡Céèë@ğe²Ç}:idI"E451736a91e42e49a55a6101f728bb5f9d5717e60beb7c4132055cb635f37c164;F:
+mtimel+šNí[

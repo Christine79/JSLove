@@ -1,0 +1,31 @@
+{:uriI"–file://app/assets/javascripts/bootstrap-4.1.3/site/_data/colors.yml?type=text/yaml&id=8111e67d3c95eb118ff63a492d12bdffbad4789f15165a2696c2caa100fa7406:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/bootstrap-4.1.3/site/_data/colors.yml;T:	nameI"&bootstrap-4.1.3/site/_data/colors;T:logical_pathI"*bootstrap-4.1.3/site/_data/colors.yml;T:content_typeI"text/yaml;T:sourceI"‘- name: blue
+  hex: "#007bff"
+- name: indigo
+  hex: "#6610f2"
+- name: purple
+  hex: "#6f42c1"
+- name: pink
+  hex: "#e83e8c"
+- name: red
+  hex: "#dc3545"
+- name: orange
+  hex: "#fd7e14"
+- name: yellow
+  hex: "#ffc107"
+- name: green
+  hex: "#28a745"
+- name: teal
+  hex: "#20c997"
+- name: cyan
+  hex: "#17a2b8"
+- name: white
+  hex: "#fff"
+- name: gray
+  hex: "#868e96"
+- name: gray-dark
+  hex: "#343a40"
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/yaml&file_type=text/yaml;TTI"Ofile-digest://app/assets/javascripts/bootstrap-4.1.3/site/_data/colors.yml;TTF:charsetI"
+utf-8;F:digest"%Q‡c1*>„XdÆÓ&˜¢¿·	.yR¤°q¾½ˆ:lengthi‘:dependencies_digest"%vù©éæŸ`=©_ DõVíªp±(oÛ-²<e:idI"E8111e67d3c95eb118ff63a492d12bdffbad4789f15165a2696c2caa100fa7406;F:
+mtimel+šNí[

@@ -1,0 +1,64 @@
+{:uriI"®file://app/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/cover/index.html?type=text/html&id=b9f9c9a85c4f783a5e16cc4e5a8e58f7ea43176f97acc19350666d457fa5f598:ET:load_pathI"app/assets/javascripts;T:filenameI"Sapp/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/cover/index.html;T:	nameI"7bootstrap-4.1.3/site/docs/4.1/examples/cover/index;T:logical_pathI"<bootstrap-4.1.3/site/docs/4.1/examples/cover/index.html;T:content_typeI"text/html;T:sourceI"	<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Cover Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="cover.css" rel="stylesheet">
+  </head>
+
+  <body class="text-center">
+
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+      <header class="masthead mb-auto">
+        <div class="inner">
+          <h3 class="masthead-brand">Cover</h3>
+          <nav class="nav nav-masthead justify-content-center">
+            <a class="nav-link active" href="#">Home</a>
+            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="#">Contact</a>
+          </nav>
+        </div>
+      </header>
+
+      <main role="main" class="inner cover">
+        <h1 class="cover-heading">Cover your page.</h1>
+        <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+        <p class="lead">
+          <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
+        </p>
+      </main>
+
+      <footer class="mastfoot mt-auto">
+        <div class="inner">
+          <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+        </div>
+      </footer>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"afile-digest://app/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/cover/index.html;TTF:charsetI"
+utf-8;F:digest"%ãi
+;CY¨ã¨≈òΩD
+Cc∏—&_;#ÜÅÌ'5:lengthi	:dependencies_digest"%§ì)vãà[z.àñ*álõ'πÂ*qú—ﬂ†ªWmï:idI"Eb9f9c9a85c4f783a5e16cc4e5a8e58f7ea43176f97acc19350666d457fa5f598;F:
+mtimel+öNÌ[

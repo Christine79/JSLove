@@ -1,0 +1,40 @@
+{:uriI"Æfile://app/assets/stylesheets/bootstrap-4.1.3/startbootstrap-creative-gh-pages/vendor/fontawesome-free/LICENSE.txt?type=text/plain&id=4b69b546a3c0009bcd240ef9936d2bcf24d387aca4366a9d963abd4af12187d9:ET:load_pathI"app/assets/stylesheets;T:filenameI"papp/assets/stylesheets/bootstrap-4.1.3/startbootstrap-creative-gh-pages/vendor/fontawesome-free/LICENSE.txt;T:	nameI"Ubootstrap-4.1.3/startbootstrap-creative-gh-pages/vendor/fontawesome-free/LICENSE;T:logical_pathI"Ybootstrap-4.1.3/startbootstrap-creative-gh-pages/vendor/fontawesome-free/LICENSE.txt;T:content_typeI"text/plain;T:sourceI"Font Awesome Free License
+-------------------------
+
+Font Awesome Free is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+Full Font Awesome Free license: https://fontawesome.com/license/free.
+
+# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+In the Font Awesome Free download, the CC BY 4.0 license applies to all icons
+packaged as SVG and JS file types.
+
+# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
+In the Font Awesome Free download, the SIL OLF license applies to all icons
+packaged as web and desktop font files.
+
+# Code: MIT License (https://opensource.org/licenses/MIT)
+In the Font Awesome Free download, the MIT license applies to all non-font and
+non-icon files.
+
+# Attribution
+Attribution is required by MIT, SIL OLF, and CC BY licenses. Downloaded Font
+Awesome Free files already contain embedded comments with sufficient
+attribution, so you shouldn't need to do anything additional when using these
+files normally.
+
+We've kept attribution comments terse, so we ask that you do not actively work
+to remove them from files, especially code. They're a great way for folks to
+learn about Font Awesome.
+
+# Brand Icons
+All brand icons are trademarks of their respective owners. The use of these
+trademarks does not indicate endorsement of the trademark holder by Font
+Awesome, nor vice versa. **Please do not use brand logos for any purpose except
+to represent the company, product, or service to which they refer.**
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"4processors:type=text/plain&file_type=text/plain;TTI"~file-digest://app/assets/stylesheets/bootstrap-4.1.3/startbootstrap-creative-gh-pages/vendor/fontawesome-free/LICENSE.txt;TTF:charsetI"
+utf-8;F:digest"%_uA!Ð ´k	¸¿èÅÑëæM¯ª©üUueFŠ:lengthi:dependencies_digest"%
+Áê[}^ é©¡	VÍdd:*ÀÌçõ5´V®:idI"E4b69b546a3c0009bcd240ef9936d2bcf24d387aca4366a9d963abd4af12187d9;F:
+mtimel+3—[

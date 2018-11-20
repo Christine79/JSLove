@@ -1,0 +1,70 @@
+{:uriI"°file://app/assets/javascripts/bootstrap-4.1.3/build/sauce_browsers.json?type=application/json&id=15665d20d028fac0984ad3109856161c54dcb218aa3afb19289cedb908c8d493:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/bootstrap-4.1.3/build/sauce_browsers.json;T:	nameI")bootstrap-4.1.3/build/sauce_browsers;T:logical_pathI".bootstrap-4.1.3/build/sauce_browsers.json;T:content_typeI"application/json;T:sourceI"≈[
+  {
+    "browserName": "safari",
+    "platform": "OS X 10.11",
+    "version": "latest"
+  },
+  {
+    "browserName": "chrome",
+    "platform": "OS X 10.11",
+    "version": "latest"
+  },
+  {
+    "browserName": "firefox",
+    "platform": "OS X 10.11",
+    "version": "latest"
+  },
+  {
+    "browserName": "MicrosoftEdge",
+    "platform": "Windows 10",
+    "version": "latest"
+  },
+  {
+    "browserName": "internet explorer",
+    "version": "11",
+    "platform": "Windows 8.1"
+  },
+  {
+    "browserName": "internet explorer",
+    "version": "10",
+    "platform": "Windows 8"
+  },
+  {
+    "browserName": "chrome",
+    "platform": "Windows 10",
+    "version": "latest"
+  },
+  {
+    "browserName": "firefox",
+    "platform": "Windows 10",
+    "version": "latest"
+  },
+  {
+    "browserName": "iphone",
+    "deviceName": "iPhone Simulator",
+    "platformName": "OS X 10.11",
+    "version": "9.3"
+  },
+  {
+    "browserName": "chrome",
+    "platform": "Linux",
+    "version": "latest"
+  },
+  {
+    "browserName": "firefox",
+    "platform": "Linux",
+    "version": "latest"
+  },
+  {
+    "platform": "Linux",
+    "browserName": "android",
+    "deviceName": "Android Emulator",
+    "version": "latest",
+    "deviceType": "phone"
+  }
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/bootstrap-4.1.3/build/sauce_browsers.json;TTF:charsetI"
+utf-8;F:digest"%ÜY∆óH&ù;kõÂ_ˇ«ØRmA˚é(N£ˆÁ‰iLj~à:lengthi≈:dependencies_digest"%”&≠“•øÁ	e˚eQYbï–Å~Eæ¨Öñ1¯«4X:idI"E15665d20d028fac0984ad3109856161c54dcb218aa3afb19289cedb908c8d493;F:
+mtimel+ôNÌ[

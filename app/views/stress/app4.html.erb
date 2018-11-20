@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Aujourdhui</title>
+     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+<!--  <%= javascript_tag 'application', 'data-turbolinks-track': 'reload' %> -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <audio id="myAudio">
+         <source src= image_tag("zic.mp3") type="audio/mp3">
+         <source src="zic.ogg" type="audio/ogg">
+
+  </audio>
+  </head>
+
+   <body class="mon-body" backgroung="image_tag("ordi4.png")" >
+ <!--  <img alt="Icon" src="/assets/icon" /> -->
+      <img image_tag("icon.png") />
+    <ul class="list-inline">
+      <li class="list-inline-item">Lorem ipsum</li>
+      <li class="list-inline-item">Phasellus iaculis</li>
+      <li class="list-inline-item">Nulla volutpat</li>
+    </ul>
+
+    <button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+
+<form>
+<div class="form-group">
+  <label for="exampleInputEmail1">Email address</label>
+  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+</div>
+<div class="form-group">
+  <label for="exampleInputPassword1">Password</label>
+  <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+</div>
+<button type="submit" class="btn btn-primary">Submit
+</form>
+
+<form class="form-inline">
+  <input type="email" class="form-control mb-2 mr-sm-2" id="inlineFormInputName2" placeholder="jane@gmail.com">
+  <button type="submit" class="btn btn-primary mb-2">Submit</button>
+</form>
+
+<div class="alert alert-success" role="alert">
+  A simple success alert—check it out!
+</div>
+<div class="alert alert-danger" role="alert">
+  A simple danger alert—check it out!
+</div>
+
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown button
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+  </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Modal body text goes here.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<button class= "mon-bouton2" onclick="playAudio()"  >Oh my <strong> Gad </strong> !</button>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <span> "B O N J O U R Christine!" </span>
+    </div>
+  </div>
+</div>
+<img src="image.png">
+
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-sm-6 col-md-4">
+        <span> "B O N J O U R    T O U J O U R S Christine!" </span>
+    </div>
+  </div>
+</div>
+
+
+
+
+    <%= yield %>
+  </body>
+
+</html>

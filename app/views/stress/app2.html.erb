@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dream and Code</title>
+     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<!--    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %> -->
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+<!--     <%= javascript_tag 'application', 'data-turbolinks-track': 'reload' %> -->
+    <%= image_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics outil de suivi -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129210498-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-129210498-1');
+    </script>
+
+
+
+    <audio id="myAudio">
+
+         <%= link_to (image_tag 'zic.mp3') %>
+         <source src="zic.mp3" type="audio/mp3">
+
+  </audio>
+
+  </head>
+
+
+
+
+   <body class="mon-body">
+     <div id="conteneur">
+
+         <div class="display-4" >dREAM</div>
+
+         <div c class="display-4" >lEARN</div>
+
+         <div class="display-4" >cODE</div>
+
+     </div>
+
+
+    <ul id="conteneur">
+       <ul id="conteneur">
+
+          <button type="button" class="btn">iNFO</button>
+          <button type="button" class="btn">hISTORY</button>
+          <button type="button" class="btn">cONTACT</button>
+          <button type="button" class="btn">fAQ</button>
+
+      </ul>
+    </ul>
+
+
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    kNOWLEDGE
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#" onclick="bonhomme()">rUBY</a>
+    <a class="dropdown-item" href="#">rAILS</a>
+    <a class="dropdown-item" href="#">hTML</a>
+    <a class="dropdown-item" href="#">cSS</a>
+  </div>
+</div>
+
+    <button class= "mon-bouton2" onclick="playAudio()"  >Oh my <strong> Gad </strong> !</button>
+
+<br>
+<br>
+<br>
+
+    <%= yield %>
+  </body>
+<!-- <script src="app/assets/javascripts/application.js"></script> -->
+</html>

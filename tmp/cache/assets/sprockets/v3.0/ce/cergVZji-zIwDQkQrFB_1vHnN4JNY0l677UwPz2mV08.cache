@@ -1,0 +1,42 @@
+{:uriI"™file://app/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/index.html?type=text/html&id=a2efe320472dee30515fe01a0a56534d54b8335e1567b2046b6d2cb1e3cee116:ET:load_pathI"app/assets/javascripts;T:filenameI"Uapp/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/index.html;T:	nameI"9bootstrap-4.1.3/site/docs/4.1/examples/sign-in/index;T:logical_pathI">bootstrap-4.1.3/site/docs/4.1/examples/sign-in/index.html;T:content_typeI"text/html;T:sourceI"ù<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Signin Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="signin.css" rel="stylesheet">
+  </head>
+
+  <body class="text-center">
+    <form class="form-signin">
+      <img class="mb-4" src="../../assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
+      <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+      <label for="inputEmail" class="sr-only">Email address</label>
+      <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+      <label for="inputPassword" class="sr-only">Password</label>
+      <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+      </div>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      <p class="mt-5 mb-3 text-muted">&copy; 2017-2018</p>
+    </form>
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"cfile-digest://app/assets/javascripts/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/index.html;TTF:charsetI"
+utf-8;F:digest"%1%ì!D\«Í?è›+©;˘Á
+OÕ>9fãŸı©:lengthiù:dependencies_digest"%R•Ô»ÏìπtGPßÚ<:O¯YÇ8Òt≤õ¶:idI"Ea2efe320472dee30515fe01a0a56534d54b8335e1567b2046b6d2cb1e3cee116;F:
+mtimel+öNÌ[

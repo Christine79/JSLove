@@ -1,0 +1,40 @@
+{:uriI"˜file://app/assets/javascripts/bootstrap-4.1.3/site/_layouts/docs.html?type=text/html&id=e142a669dc25cbbeaf50b21e181c0ee70ed065bc885e06394c7afda505b85436:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/bootstrap-4.1.3/site/_layouts/docs.html;T:	nameI"'bootstrap-4.1.3/site/_layouts/docs;T:logical_pathI",bootstrap-4.1.3/site/_layouts/docs.html;T:content_typeI"text/html;T:sourceI"t<!doctype html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body>
+    {% include skippy.html %}
+
+    {% include docs-navbar.html %}
+
+    <div class="container-fluid">
+      <div class="row flex-xl-nowrap">
+        <div class="col-12 col-md-3 col-xl-2 bd-sidebar">
+          {% include docs-sidebar.html %}
+        </div>
+
+        {% if page.toc %}
+          <div class="d-none d-xl-block col-xl-2 bd-toc">
+            {{ content | toc_only }}
+          </div>
+        {% endif %}
+
+        <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
+          <h1 class="bd-title" id="content">{{ page.title | smartify }}</h1>
+          <p class="bd-lead">{{ page.description | smartify }}</p>
+          {% include ads.html %}
+          {{ content }}
+        </main>
+      </div>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Qfile-digest://app/assets/javascripts/bootstrap-4.1.3/site/_layouts/docs.html;TTF:charsetI"
+utf-8;F:digest"%š«"MÓÿMúî‘WOˆ‰˜~FŸÒÛMeøÜVó:lengthit:dependencies_digest"%žrÄ¦¨ÂßE6LžU+½ŸÕË§q}•ù
+D}€Îsa:idI"Ee142a669dc25cbbeaf50b21e181c0ee70ed065bc885e06394c7afda505b85436;F:
+mtimel+šNí[

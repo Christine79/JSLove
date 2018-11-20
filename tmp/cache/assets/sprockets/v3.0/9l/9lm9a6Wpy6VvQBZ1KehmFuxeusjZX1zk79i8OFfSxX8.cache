@@ -1,0 +1,10 @@
+{:uriI"’file://app/assets/javascripts/bootstrap-4.1.3/sache.json?type=application/json&id=a37ee4a5880f4fd210d8bf98ca3390c62ffc82412104357048dc93352d1b06ad:ET:load_pathI"app/assets/javascripts;T:filenameI"6app/assets/javascripts/bootstrap-4.1.3/sache.json;T:	nameI"bootstrap-4.1.3/sache;T:logical_pathI"bootstrap-4.1.3/sache.json;T:content_typeI"application/json;T:sourceI"ù{
+  "name": "bootstrap",
+  "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+  "tags": ["bootstrap", "grid", "typography", "buttons", "ui", "responsive-web-design"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Dfile-digest://app/assets/javascripts/bootstrap-4.1.3/sache.json;TTF:charsetI"
+utf-8;F:digest"%$ù^:œ¨ÑeCóGClªÏ¬ÆF¸C~”fØê¿*:lengthiù:dependencies_digest"%Ä'cå’`,ù\jı»Yï‚Zv!ê„­EŸ±?u[Q:idI"Ea37ee4a5880f4fd210d8bf98ca3390c62ffc82412104357048dc93352d1b06ad;F:
+mtimel+™Ní[

@@ -1,0 +1,14 @@
+{:uriI"file://app/assets/javascripts/bootstrap-4.1.3/site/_includes/favicons.html?type=text/html&id=0c2ec3ff61dea7f2c42b7abfc460ed7c4b7409fd571921cf865148a89c884916:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/bootstrap-4.1.3/site/_includes/favicons.html;T:	nameI",bootstrap-4.1.3/site/_includes/favicons;T:logical_pathI"1bootstrap-4.1.3/site/_includes/favicons.html;T:content_typeI"text/html;T:sourceI"š<!-- Favicons -->
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/docs/{{ site.docs_version }}/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="{{ site.baseurl }}/docs/{{ site.docs_version }}/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="{{ site.baseurl }}/docs/{{ site.docs_version }}/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="manifest" href="{{ site.baseurl }}/docs/{{ site.docs_version }}/assets/img/favicons/manifest.json">
+<link rel="mask-icon" href="{{ site.baseurl }}/docs/{{ site.docs_version }}/assets/img/favicons/safari-pinned-tab.svg" color="#563d7c">
+<link rel="icon" href="{{ site.baseurl }}/favicon.ico">
+<meta name="msapplication-config" content="{{ site.baseurl }}/docs/{{ site.docs_version }}/assets/img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#563d7c">
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Vfile-digest://app/assets/javascripts/bootstrap-4.1.3/site/_includes/favicons.html;TTF:charsetI"
+utf-8;F:digest"%ğ°V'ˆô~­İE¯Ü¥şvÆbZ!	§6$lÕŒgTD:lengthiš:dependencies_digest"%'Ò #•ŞeıXé5>—†OğsG®pöğ£ù;6[óç:idI"E0c2ec3ff61dea7f2c42b7abfc460ed7c4b7409fd571921cf865148a89c884916;F:
+mtimel+šNí[
